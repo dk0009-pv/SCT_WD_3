@@ -1,4 +1,4 @@
-/* Quiz.module.css — SCT_WD_3 */
+
 
 .card {
   background: #0d0d1e;
@@ -11,7 +11,6 @@
   box-shadow: 0 8px 40px rgba(0,0,0,0.35);
 }
 
-/* ── Start Screen ── */
 .startIcon { font-size: 3rem; text-align: center; }
 .startTitle {
   font-size: clamp(1.5rem,4vw,2rem);
@@ -90,7 +89,6 @@
   color: #7777aa;
 }
 
-/* ── Quiz Screen ── */
 .quizWrap { display: flex; flex-direction: column; gap: 1rem; }
 
 .topBar { display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; }
@@ -210,7 +208,6 @@
 }
 .btnAction:hover { transform:translateY(-2px); box-shadow:0 10px 32px rgba(124,111,255,0.45); }
 
-/* ── Result Screen ── */
 .resultEmoji { font-size:3.5rem; animation:popIn 0.5s ease; }
 @keyframes popIn { 0%{transform:scale(0);opacity:0} 65%{transform:scale(1.15)} 100%{transform:scale(1);opacity:1} }
 .resultTitle { font-size:1.8rem; font-weight:800; letter-spacing:-0.03em; }
