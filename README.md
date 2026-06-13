@@ -1,9 +1,10 @@
-# QuizMaster  — Interactive Quiz Application
+# QuizMaster — Interactive Quiz Application
 
-
-
-
-\
+![SkillCraft](https://img.shields.io/badge/SkillCraft-Technology-2C2C2C?style=for-the-badge)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 A modern, responsive, and interactive Quiz Application built using React, Vite, JavaScript, and Tailwind CSS as part of the SkillCraft Technology Web Development Internship — Task 03.
 
@@ -17,14 +18,14 @@ QuizMaster is an interactive quiz platform designed to test knowledge and provid
 
 The application enables users to:
 
-* Attempt quizzes with multiple question types
-* Track quiz progress in real time
-* Answer single-choice questions
-* Answer multiple-choice questions
-* Solve fill-in-the-blank questions
-* View a countdown timer during the quiz
-* Receive detailed score analysis
-* Restart and retake quizzes
+- Attempt quizzes with multiple question types
+- Track quiz progress in real time
+- Answer single-choice questions
+- Answer multiple-choice questions
+- Solve fill-in-the-blank questions
+- View a countdown timer during the quiz
+- Receive detailed score analysis
+- Restart and retake quizzes
 
 The project demonstrates practical React development concepts including state management, reusable components, custom hooks, quiz logic implementation, and responsive UI design.
 
@@ -32,16 +33,16 @@ The project demonstrates practical React development concepts including state ma
 
 ## Internship Details
 
-| Field           | Details               |
-| --------------- | --------------------- |
-| Internship      | SkillCraft Technology |
-| Track           | Web Development       |
-| Track Code      | WD                    |
-| Task Number     | Task 03               |
-| Task Name       | Quiz Application      |
-| Repository Name | SCT_WD_3              |
-| Intern ID       | SCT/JUNE26/2530       |
-| Project Name    | QuizMaster            |
+| Field | Details |
+|---------|---------|
+| Internship | SkillCraft Technology |
+| Track | Web Development |
+| Track Code | WD |
+| Task Number | Task 03 |
+| Task Name | Quiz Application |
+| Repository Name | SCT_WD_3 |
+| Intern ID | SCT/JUNE26/2530 |
+| Project Name | QuizMaster |
 
 ---
 
@@ -49,82 +50,82 @@ The project demonstrates practical React development concepts including state ma
 
 ### Quiz Start Screen
 
-* Welcome interface
-* Quiz instructions
-* Start Quiz button
-* Question type legend
+- Welcome interface
+- Quiz instructions
+- Start Quiz button
+- Question type legend
 
 ### Multiple Question Types
 
 Supports:
 
-* Single Choice Questions
-* Multiple Choice Questions
-* Fill in the Blank Questions
+- Single Choice Questions
+- Multiple Choice Questions
+- Fill in the Blank Questions
 
 ### Real-Time Progress Tracking
 
 Users can:
 
-* Track current question number
-* Monitor quiz progress
-* Navigate through questions
+- Track current question number
+- Monitor quiz progress
+- Navigate through questions
 
 ### Timer Functionality
 
-* Countdown timer
-* Time tracking during quiz
-* Automatic completion handling
+- Countdown timer
+- Time tracking during quiz
+- Automatic completion handling
 
 ### Instant Score Calculation
 
 The application automatically calculates:
 
-* Total Score
-* Correct Answers
-* Incorrect Answers
-* Percentage Score
+- Total Score
+- Correct Answers
+- Incorrect Answers
+- Percentage Score
 
 ### Result Analysis
 
 After quiz completion users can view:
 
-* Final score
-* Score percentage
-* Question breakdown
-* Performance summary
+- Final score
+- Score percentage
+- Question breakdown
+- Performance summary
 
 ### Retry Functionality
 
 Users can:
 
-* Retake the quiz
-* Return to the home screen
-* Attempt multiple times
+- Retake the quiz
+- Return to the home screen
+- Attempt multiple times
 
 ### Responsive User Interface
 
 Features include:
 
-* Responsive layout
-* Modern design
-* Mobile-friendly experience
-* Interactive question cards
-* Smooth user interactions
+- Responsive layout
+- Modern design
+- Mobile-friendly experience
+- Interactive question cards
+- Smooth user interactions
 
 ---
 
 ## Tech Stack
 
-| Technology       | Purpose                  |
-| ---------------- | ------------------------ |
-| React.js         | Frontend Library         |
-| Vite             | Development & Build Tool |
-| JavaScript       | Application Logic        |
-| Tailwind CSS     | Utility-First Styling    |
-| React Router DOM | Client-Side Routing      |
-| HTML5            | Structure                |
-| CSS3             | Styling Support          |
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend Library |
+| Vite | Development & Build Tool |
+| JavaScript | Application Logic |
+| Tailwind CSS | Utility-First Styling |
+| React Router DOM | Client-Side Routing |
+| HTML5 | Structure |
+| CSS3 | Styling Support |
 
 ---
 
@@ -212,17 +213,17 @@ http://localhost:5173/
 
 ## Learning Outcomes
 
-* React Fundamentals
-* State Management
-* React Hooks
-* Custom Hooks Development
-* Component Architecture
-* Event Handling
-* Quiz Logic Implementation
-* Dynamic Rendering
-* Responsive UI Design
-* Project Structuring
-* Git & GitHub Workflow
+- React Fundamentals
+- State Management
+- React Hooks
+- Custom Hooks Development
+- Component Architecture
+- Event Handling
+- Quiz Logic Implementation
+- Dynamic Rendering
+- Responsive UI Design
+- Project Structuring
+- Git & GitHub Workflow
 
 ---
 
