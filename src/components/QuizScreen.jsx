@@ -1,4 +1,3 @@
-// src/components/QuizScreen.jsx
 import { useState, useEffect, useRef } from 'react'
 import styles from './Quiz.module.css'
 
